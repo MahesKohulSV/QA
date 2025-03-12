@@ -387,5 +387,5 @@ public class General_methods {
 			return false;
 		}
 	}
-
+//Add new
 }
